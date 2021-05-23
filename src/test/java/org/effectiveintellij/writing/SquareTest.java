@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 public class SquareTest {
     @Test
     void shouldHave4Sides() {
-        Square square = new Square();
+        Square square = new Square("label");
         Assertions.assertEquals(4, square.getSides());
     }
 }
