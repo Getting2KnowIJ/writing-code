@@ -1,2 +1,0 @@
-org/effectiveintellij/writing/Square.java
- org.effectiveintellij.writing.Square

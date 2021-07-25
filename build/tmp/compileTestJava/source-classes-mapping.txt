@@ -1,2 +1,0 @@
-org/effectiveintellij/writing/SquareTest.java
- org.effectiveintellij.writing.SquareTest
