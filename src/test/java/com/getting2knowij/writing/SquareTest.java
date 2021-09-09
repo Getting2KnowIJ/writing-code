@@ -1,4 +1,4 @@
-package org.effectiveintellij.writing;
+package com.getting2knowij.writing;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

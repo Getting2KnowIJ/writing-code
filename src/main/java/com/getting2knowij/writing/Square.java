@@ -1,4 +1,4 @@
-package org.effectiveintellij.writing;
+package com.getting2knowij.writing;
 
 public class Square {
     private final int sides = 4;
