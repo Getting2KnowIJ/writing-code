@@ -3,7 +3,7 @@
 
 This project will help you learn the best way to write code in IntelliJ IDEA.
 
-The full tutorial for learning IntelliJ IDEA is in the book [Getting to Know IntelliJ IDEA](https://www.amazon.com/Getting-Know-IntelliJ-IDEA-Professional/dp/B0CRGX26QK/), or you can learn via the self-paced training course [Working With Code in IntelliJ IDEa](https://leanpub.com/c/workingwithcodeinintellijidea).
+The full tutorial for learning IntelliJ IDEA is in the book [Getting to Know IntelliJ IDEA](https://www.amazon.com/Getting-Know-IntelliJ-IDEA-Professional/dp/B0CRGX26QK/), or you can learn via the self-paced training course [Working With Code in IntelliJ IDEA](https://leanpub.com/c/workingwithcodeinintellijidea).
 
 To use these samples, open the project in IntelliJ IDEA.
 
