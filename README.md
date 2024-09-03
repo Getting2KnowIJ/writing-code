@@ -1,5 +1,5 @@
 # Getting to Know IntelliJ IDEA
-# Example Project for Learning the Best Editor Tricks
+## Example Project for Learning the Best Editor Tricks
 
 This project will help you learn the best way to write code in IntelliJ IDEA.
 
